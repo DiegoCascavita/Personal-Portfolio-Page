@@ -14,7 +14,7 @@ If you want to use the ui/ux only download the repo, install the vsCode extensio
 
 `5.`Compatible with all mobile devices and with a beautiful and pleasant user interface. `UI/UX`
 
-`6.`animation triggered event listener of <section> element.
+`6.`animation triggered event listener of the section element.
 
 `7.` different animations in css and js together with an acrylic effect.
 
