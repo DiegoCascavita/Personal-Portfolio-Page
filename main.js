@@ -1,3 +1,11 @@
+/*==================== LOADING FUNCTION ====================*/
+window.addEventListener("load", ()=>{
+    const loader = document.querySelector(".loader")
+    loader.classList.add("loader-hidden")
+    loader.addEventListener("transitioned", ()=>{
+        document.body.removeChild("loader")
+    })
+})
 /*==================== MENU SHOW Y HIDDEN ====================*/
 const navMenu = document.getElementById('nav-menu'),
     navToggle = document.getElementById('nav-toggle'),
