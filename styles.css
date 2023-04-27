@@ -102,8 +102,13 @@ body.dark-theme{
 }
 .loader::after{
   content: '';
+<<<<<<< HEAD
   width: 65px;
   height: 65px;
+=======
+  width: 75px;
+  height: 75px;
+>>>>>>> origin/main
   border: 15px solid #dddddd;
   border-top-color: hsl(var(--hue-color), 69%, 61%);
   border-radius: 50%;
@@ -965,6 +970,10 @@ bottom: 5rem;
     grid-template-columns: repeat(2, 1fr);
   }
 }
+<<<<<<< HEAD
 .fix_line{
 
 }
+=======
+/**/
+>>>>>>> origin/main
